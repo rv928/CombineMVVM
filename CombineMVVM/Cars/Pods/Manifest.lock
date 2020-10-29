@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (4.10.1)
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+
+DEPENDENCIES:
+  - Kingfisher (~> 4.0)
+  - KRProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+
+PODFILE CHECKSUM: afce8fde46021329e5b6cb4a4718d5607c58021a
+
+COCOAPODS: 1.9.1

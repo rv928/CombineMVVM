@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Cars-CarsUITests/Pods-Cars-CarsUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KRActivityIndicatorView/KRActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/KRProgressHUD/KRProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
